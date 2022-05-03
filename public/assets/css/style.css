@@ -1,0 +1,24 @@
+* {
+    font-family: 'Staatliches', cursive;
+    color: white;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+}
+
+header {
+    font-size: 8em;
+}
+
+h1 {
+    font-size: 4em;
+    font-style: italic;
+}
+
+ul {
+    font-size: 3em;
+}
